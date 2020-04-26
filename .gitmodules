@@ -1,0 +1,9 @@
+[submodule "stay_safe_server"]
+	path = stay_safe_server
+	url = https://github.com/oariton/stay_safe_server.git
+[submodule "stay_safe_mobile"]
+	path = stay_safe_mobile
+	url = https://github.com/oariton/stay_safe_mobile.git
+[submodule "stay_safe_apk"]
+	path = stay_safe_apk
+	url = https://github.com/oariton/stay_safe_apk.git
