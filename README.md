@@ -7,11 +7,15 @@ This is the repository for Stay Safe project
 ```
 git clone https://github.com/oariton/StaySafe.git
 ```
-To pull all the 3 repositories run :
+To pull all the 4 repositories run :
 
 ```
 git submodule update --init --recursive
 ```
+
+## The Mobile Application and Back End server video presentations
+
+Browse the **stay_safe_video** folder and enjoy videos
 
 ## The mobile application build (apk) to be installed on any android device
 

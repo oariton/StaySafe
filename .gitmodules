@@ -7,3 +7,6 @@
 [submodule "stay_safe_apk"]
 	path = stay_safe_apk
 	url = https://github.com/oariton/stay_safe_apk.git
+[submodule "stay_safe_video"]
+	path = stay_safe_video
+	url = https://github.com/oariton/stay_safe_video.git
